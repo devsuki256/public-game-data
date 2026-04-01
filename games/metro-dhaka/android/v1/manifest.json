@@ -1,0 +1,11 @@
+{
+    "gameName":"Metro Dhaka",
+    "latestVersion": "1.0.0",
+    "buildVersion": 10000,
+    "updateName": "New city update",
+    "updateMessage": "Explore our new update. new cities are added",
+    "downloadURL": "https://nothing.com/download/game.exe",
+    "changeLog":"",
+    "extraURL":"",
+    "extraURLLabel":""
+}
