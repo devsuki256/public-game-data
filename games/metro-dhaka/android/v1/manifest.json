@@ -5,6 +5,7 @@
     "updateName": "New city update",
     "updateMessage": "Explore our new update. new cities are added",
     "downloadURL": "https://nothing.com/download/game.exe",
+    "thumbnail": "",
     "changeLog":"empty",
     "extraURL":"empty",
     "extraURLLabel":"empty"
