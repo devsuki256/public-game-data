@@ -2,11 +2,12 @@
     "gameName":"Metro Dhaka",
     "latestVersion": "1.0.0",
     "buildVersion": 10000,
-    "updateName": "New city update",
-    "updateMessage": "Explore our new update. new cities are added",
-    "downloadURL": "https://nothing.com/download/game.exe",
-    "thumbnail": "https://i.ibb.co.com/s9CvC94r/game-Update-Thumbnail.jpg",
+    "updateName": "Game is updating...",
+    "updateMessage": "You are playing an older version, which is discontinued. We are updating our game. Wait for stable release.",
+    "downloadURL": "https://pastebin.com/CUXz1qP4",
+    "thumbnail": "https://i.postimg.cc/nz6PqkKB/game-Update-Thumbnail.jpg",
     "changeLog":"empty",
-    "extraURL":"empty",
-    "extraURLLabel":"empty"
+    "extraURLLabel":"Contact",
+    "extraURL":"https://wa.me/8801586312226"
+
 }
